@@ -1,6 +1,6 @@
 package prac;
 
-public class PracCode {
+public class PracCode1 {
  public static void main(String[] args) {
 	System.out.println("Good morning");
 }
